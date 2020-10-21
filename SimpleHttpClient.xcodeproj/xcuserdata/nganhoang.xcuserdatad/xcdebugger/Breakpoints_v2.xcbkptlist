@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "882C9224-7438-402A-831B-9E1E1ADB735E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A187AFD-1E5E-43F8-835F-CC0B91998995"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleHttpClient/PersonService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "477B235B-B1D5-482E-8949-0B406DED4DB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleHttpClient/PersonService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "477B235B-B1D5-482E-8949-0B406DED4DB3 - 5b128aee9c7fe824"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleHttpClient.PersonService.addPerson(pObj: SimpleHttpClient.Person) -&gt; ()"
+                  moduleName = "SimpleHttpClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nganhoang/Desktop/iOS%20development/SimpleHttpClient/SimpleHttpClient/PersonService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1026">
+               </Location>
+               <Location
+                  uuid = "477B235B-B1D5-482E-8949-0B406DED4DB3 - 689f13aa1ad380d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SimpleHttpClient.PersonService.addPerson(pObj: SimpleHttpClient.Person) -&gt; ()"
+                  moduleName = "SimpleHttpClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nganhoang/Desktop/iOS%20development/SimpleHttpClient/SimpleHttpClient/PersonService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C61DA8F-16F4-4CF0-BFEA-F2631DDDA6B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleHttpClient/PersonService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "7C61DA8F-16F4-4CF0-BFEA-F2631DDDA6B1 - 5b128aee9c7fe824"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleHttpClient.PersonService.addPerson(pObj: SimpleHttpClient.Person) -&gt; ()"
+                  moduleName = "SimpleHttpClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nganhoang/Desktop/iOS%20development/SimpleHttpClient/SimpleHttpClient/PersonService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1026">
+               </Location>
+               <Location
+                  uuid = "7C61DA8F-16F4-4CF0-BFEA-F2631DDDA6B1 - 689f13aa1ad380d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SimpleHttpClient.PersonService.addPerson(pObj: SimpleHttpClient.Person) -&gt; ()"
+                  moduleName = "SimpleHttpClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nganhoang/Desktop/iOS%20development/SimpleHttpClient/SimpleHttpClient/PersonService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3158916-D53B-403F-A02D-38492FC0E515"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleHttpClient/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
